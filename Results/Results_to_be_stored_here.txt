@@ -1,0 +1,3 @@
+A folder will be created for each prediction horizon of the testing period under the name _YYYYMMDDHHMM.
+In these folders, csv files contain the generated scenarios per location.
+Ex: id_114_201406010000.csv

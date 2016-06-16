@@ -31,13 +31,12 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+
+
 ##INPUTS TO BE MODIFIED
 #Path where all .py files are stored
-folder_code = 'C:/Users/Igor/Documents/GitHub/RESGen/PythonCode'
 #Path to data
-folder_data = 'C:/Users/Igor/Documents/DTU/Thesis/Code/RE-Europe_dataset_package'
 #Output path to store scenarios in csv
-folder_output = 'C:/Users/Igor/Documents/DTU/Thesis/Code'
 #Renewable type to be studied: 'wind' or 'solar'
 renewable_type = 'wind' #
 #Data type: 'COSMO' or 'ECMWF' (COSMO recommended)
