@@ -35,8 +35,11 @@
 
 ##INPUTS TO BE MODIFIED
 #Path where all .py files are stored
+folder_code = '.'
 #Path to data
+folder_data = '../RE-Europe_dataset_package'
 #Output path to store scenarios in csv
+folder_output = '../Results'
 #Renewable type to be studied: 'wind' or 'solar'
 renewable_type = 'wind' #
 #Data type: 'COSMO' or 'ECMWF' (COSMO recommended)
